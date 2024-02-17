@@ -1,0 +1,192 @@
+                        .container {
+                            height: 800px;
+                            width: 100%;
+                            background-color: rgb(248, 215, 174);
+                            display: inline flex;
+                        }
+                        
+                        li {
+                            display: inline;
+                            padding-left: 50px;
+                            color: black;
+                        }
+                        
+                        a {
+                            text-decoration: none;
+                        }
+                        
+                        .image {
+                            padding-left: 10%;
+                            padding-top: 10%;
+                        }
+                        
+                        .text {
+                            padding-top: 25%;
+                        }
+                        
+                        .container2 {
+                            margin-top: 50px;
+                            height: 400px;
+                            width: 60%;
+                            text-align: center;
+                            text-transform: capitalize;
+                            padding-left: 20%;
+                            padding-right: 20%;
+                        }
+                        
+                        .container3 {
+                            height: 700px;
+                            width: 60%;
+                            border: 5px solid rgb(248, 215, 174);
+                            margin-left: 20%;
+                        }
+                        
+                        .text2 {
+                            height: 100px;
+                            width: 100%;
+                            text-align: center;
+                        }
+                        
+                        .text3,
+                        .text4,
+                        .text5 {
+                            height: 200px;
+                            width: 100%;
+                            text-align: center;
+                        }
+                        
+                        .container4 {
+                            height: 500px;
+                            width: 40%;
+                            border: 5px solid rgb(248, 215, 174);
+                            margin-top: 10%;
+                            margin-left: 30%;
+                        }
+                        
+                        .text6,
+                        .text7,
+                        .text8,
+                        .text9,
+                        .text10 {
+                            text-align: center;
+                            height: 100px;
+                            width: 100%;
+                        }
+                        
+                        .main,
+                        .main2,
+                        .main3 {
+                            text-align: center;
+                            padding-bottom: 20px;
+                        }
+                        
+                        .container5 {
+                            height: 50px;
+                            width: 20%;
+                            background-color: rgb(248, 215, 174);
+                            margin-top: 5%;
+                            color: white;
+                            padding-left: 5%;
+                            margin-left: 38%;
+                        }
+                        
+                        .container6 {
+                            height: 600px;
+                            width: 60%;
+                            border: 5px solid rgb(248, 215, 174);
+                            margin-top: 5%;
+                            margin-left: 20%;
+                            text-align: center;
+                        }
+                        
+                        .text11,
+                        .text12,
+                        .text13,
+                        .text14 {
+                            height: 50px;
+                            width: 100%;
+                        }
+                        
+                        .submit {
+                            background-color: black;
+                            color: white;
+                        }
+                        
+                        .container7 {
+                            height: 50px;
+                            width: 100%;
+                            text-align: center;
+                        }
+                        
+                        .container8 {
+                            height: 50px;
+                            width: 40%;
+                            margin-left: 30%;
+                        }
+                        
+                        .container9 {
+                            height: 400px;
+                            width: 60%;
+                            margin-left: 20%;
+                            display: inline-flex;
+                        }
+                        
+                        .text15 {
+                            height: 400px;
+                            width: 50%;
+                        }
+                        
+                        .text16 {
+                            height: 400px;
+                            width: 50%;
+                            padding-left: 20px;
+                            border: 0.8px solid black;
+                            border-left: none;
+                        }
+                        
+                        .text17 {
+                            height: auto;
+                            width: 100%;
+                            display: inline-flex;
+                        }
+                        
+                        .one {
+                            height: auto;
+                            width: 10%;
+                        }
+                        
+                        .one2 {
+                            height: auto;
+                            width: 90%;
+                            padding-top: 10px;
+                        }
+                        
+                        .pro {
+                            height: 50px;
+                            width: 50px;
+                        }
+                        
+                        .text18 {
+                            height: auto;
+                            width: 100%;
+                        }
+                        
+                        .one3 {
+                            height: 250px;
+                            width: 100%;
+                        }
+                        
+                        .one3:hover {
+                            color: orange;
+                        }
+                        
+                        .one4:hover {
+                            height: 50px;
+                            width: 100%;
+                            color: orange;
+                        }
+                        
+                        .space {
+                            height: 50px;
+                            width: 100%;
+                        }
